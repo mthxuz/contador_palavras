@@ -4,8 +4,8 @@ Um programa simples e eficiente para contar palavras em textos, com suporte a di
 
 ## Novidades da Versão 1.2 🎉
 
-### Interface Gráfica!
-Agora com uma interface gráfica moderna e fácil de usar:
+### Interface Gráfica
+Atualização que adiciona uma interface gráfica moderna e fácil de usar:
 
 <div align="center">
   <img src="./assets/images/gui_demo.png" alt="Interface Gráfica do Contador de Palavras" width="600"/>
